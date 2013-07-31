@@ -1,0 +1,3 @@
+[submodule "lib/ppt-slider"]
+	path = lib/ppt-slider
+	url = git@github.com:missdora/ppt-slider.git
